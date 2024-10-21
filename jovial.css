@@ -1,0 +1,62 @@
+body{background-color:#02151f;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column}
+#title {
+    font-family: barlow;
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+}
+
+.set {
+    text-align: center;
+}
+.drum{
+    width: 90px;
+    height: 90px;
+    color: red;
+    font-family: barlow;
+    font-size: 5rem;
+    text-align: center;
+    padding-bottom: 35px;
+    position:relative;
+    margin-right: 70px;
+}
+
+a{
+    text-decoration: none;
+}
+#hm{
+    text-align: center;
+}
+#songs{
+    position: relative;
+    text-align: center;
+    color: rgb(232, 243, 243);
+    margin-top: 150px;
+}
+footer {
+    text-align: center;
+    margin-top: auto;  
+    color: white
+}
+
+.j{
+    background-image:url("images/cool.jpg")
+}
+.o{
+    background-image:url("images/hard.jpg")
+}
+.v{
+    background-image:url("images/original.jpg")
+}
+.i{
+    background-image:url("images/nice.jpg")
+}
+.a{
+    background-image:url("images/soft.jpg")
+}
+.l{
+    background-image:url("images/main.jpg")
+}
